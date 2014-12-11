@@ -1,4 +1,4 @@
-## Why this presentation
+## What this presentation
 
 ### Don't <!-- .element class="left fragment" -->
 
