@@ -1,0 +1,1 @@
+![Zend Skeleton](/images/zf2.png)
