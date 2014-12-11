@@ -9,9 +9,9 @@
 ### DO <!-- .element class="left fragment" -->
 
 <div class="half fragment">
-<img src="/images/dont_duplicate.png" alt="Don't duplicate" />
+<img src="images/dont_duplicate.png" alt="Don't duplicate" />
 </div>
 
 <div class="half fragment">
-<img src="/images/avoid-conflict.jpg" alt="Avoid conflict" />
+<img src="images/avoid-conflict.jpg" alt="Avoid conflict" />
 </div>

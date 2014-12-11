@@ -9,4 +9,4 @@ Copy ./vendor/zendframework/zend-developer-tools/config/zenddevelopertools.local
 
 Change any settings in it according to your needs. <!-- .element class="fragment roll-in" --> 
 
-![Zend Developer Toolbar](/images/zdt.png) <!-- .element class="fragment roll-in" -->
+![Zend Developer Toolbar](images/zdt.png) <!-- .element class="fragment roll-in" -->

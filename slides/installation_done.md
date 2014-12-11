@@ -1,1 +1,1 @@
-![Zend Skeleton](/images/zf2.png)
+![Zend Skeleton](images/zf2.png)

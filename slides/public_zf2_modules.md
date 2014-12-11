@@ -6,6 +6,6 @@
 
 <br />
 #### Developer tool bar <!-- .element class="left fragment" -->
-![Zend developer toolbar](/images/zend_developer_toolbar.png) <!-- .element class="fragment" -->
+![Zend developer toolbar](images/zend_developer_toolbar.png) <!-- .element class="fragment" -->
 
 [https://github.com/zendframework/ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools) <!-- .element class="fragment" -->

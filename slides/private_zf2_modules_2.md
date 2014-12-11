@@ -1,1 +1,1 @@
-![Backend Module](/images/be.png)
+![Backend Module](images/be.png)
